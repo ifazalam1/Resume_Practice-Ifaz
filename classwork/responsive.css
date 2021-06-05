@@ -1,0 +1,30 @@
+
+@media (max-width:500px) {
+    p {
+        font-size: 25px;
+    }
+
+    .top {
+        background-color: rgba(80, 110, 41, 0.685);
+
+    }
+}
+
+@media (min-width:1000px) {
+    body {
+        
+        background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+    }
+
+}
+
+@media (min-width:600px) and (max-width:700px) {
+    p {
+        font-size: 20px;
+    }
+
+    .form {
+        background-color: rgba(117, 136, 93, 0.685);
+
+    }
+}
